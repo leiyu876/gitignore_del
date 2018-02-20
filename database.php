@@ -1,2 +1,0 @@
-lcal setup root
-leo
